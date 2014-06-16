@@ -67,44 +67,54 @@ td
 	mso-pattern:black none;}
 .xl66
 	{mso-style-parent:style0;
-	text-align:center;}
+	text-align:center;
+	border:.5pt solid windowtext;}
 .xl67
 	{mso-style-parent:style0;
 	font-size:16.0pt;
 	font-family:宋体;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	text-align:center;}
+	text-align:center;
+	border:.5pt solid windowtext;}
 .xl68
 	{mso-style-parent:style24;
 	color:#006100;
 	text-align:center;
+	border:.5pt solid windowtext;
 	background:#C6EFCE;
 	mso-pattern:black none;}
 .xl69
 	{mso-style-parent:style0;
-	color:gray;
-	font-size:16.0pt;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	text-align:center;}
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#DAEEF3;
+	mso-pattern:black none;}
 .xl70
 	{mso-style-parent:style0;
-	text-align:left;}
-.xl71
-	{mso-style-parent:style0;
 	color:gray;
 	font-size:16.0pt;
 	font-family:宋体;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	text-align:center;}
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#DAEEF3;
+	mso-pattern:black none;}
+.xl71
+	{mso-style-parent:style0;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#DAEEF3;
+	mso-pattern:black none;}
 .xl72
 	{mso-style-parent:style0;
-	text-align:center;
-	background:#F2F2F2;
-	mso-pattern:black none;}
+	text-align:left;
+	border:.5pt solid windowtext;}
 .xl73
 	{mso-style-parent:style0;
 	color:gray;
@@ -113,21 +123,25 @@ td
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	text-align:center;
-	background:#F2F2F2;
+	border:.5pt solid windowtext;
+	background:#DAEEF3;
 	mso-pattern:black none;}
 .xl74
 	{mso-style-parent:style0;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#F2F2F2;
+	mso-pattern:black none;}
+.xl75
+	{mso-style-parent:style0;
+	color:gray;
 	font-size:16.0pt;
 	font-family:宋体;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	text-align:center;
+	border:.5pt solid windowtext;
 	background:#F2F2F2;
-	mso-pattern:black none;}
-.xl75
-	{mso-style-parent:style0;
-	text-align:center;
-	background:#FDE9D9;
 	mso-pattern:black none;}
 .xl76
 	{mso-style-parent:style0;
@@ -136,27 +150,24 @@ td
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	text-align:center;
-	background:#FDE9D9;
+	border:.5pt solid windowtext;
+	background:#F2F2F2;
 	mso-pattern:black none;}
 .xl77
 	{mso-style-parent:style0;
-	color:gray;
-	font-size:16.0pt;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
 	text-align:center;
+	border:.5pt solid windowtext;
 	background:#FDE9D9;
 	mso-pattern:black none;}
 .xl78
 	{mso-style-parent:style0;
-	color:gray;
 	font-size:16.0pt;
 	font-family:宋体;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	text-align:center;
-	background:#F2F2F2;
+	border:.5pt solid windowtext;
+	background:#FDE9D9;
 	mso-pattern:black none;}
 .xl79
 	{mso-style-parent:style0;
@@ -166,5 +177,138 @@ td
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	text-align:center;
+	border:.5pt solid windowtext;
 	background:#FDE9D9;
+	mso-pattern:black none;}
+.xl80
+	{mso-style-parent:style0;
+	color:gray;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl81
+	{mso-style-parent:style0;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#E4DFEC;
+	mso-pattern:black none;}
+.xl82
+	{mso-style-parent:style0;
+	color:gray;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#E4DFEC;
+	mso-pattern:black none;}
+.xl83
+	{mso-style-parent:style0;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#E4DFEC;
+	mso-pattern:black none;}
+.xl84
+	{mso-style-parent:style0;
+	color:gray;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#F2F2F2;
+	mso-pattern:black none;}
+.xl85
+	{mso-style-parent:style0;
+	color:gray;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#FDE9D9;
+	mso-pattern:black none;}
+.xl86
+	{mso-style-parent:style0;
+	color:gray;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl87
+	{mso-style-parent:style0;
+	color:gray;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#E4DFEC;
+	mso-pattern:black none;}
+.xl88
+	{mso-style-parent:style0;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#D9D9D9;
+	mso-pattern:black none;}
+.xl89
+	{mso-style-parent:style0;
+	color:gray;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#D9D9D9;
+	mso-pattern:black none;}
+.xl90
+	{mso-style-parent:style0;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#D9D9D9;
+	mso-pattern:black none;}
+.xl91
+	{mso-style-parent:style0;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#FCD5B4;
+	mso-pattern:black none;}
+.xl92
+	{mso-style-parent:style0;
+	color:gray;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#FCD5B4;
+	mso-pattern:black none;}
+.xl93
+	{mso-style-parent:style0;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:#FCD5B4;
 	mso-pattern:black none;}
