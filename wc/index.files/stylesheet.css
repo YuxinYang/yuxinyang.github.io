@@ -377,18 +377,18 @@ td
 	font-family:宋体;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	text-align:center;}
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
 .xl102
 	{mso-style-parent:style0;
 	font-size:16.0pt;
 	font-family:宋体;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	text-align:center;
-	border-top:none;
-	border-right:none;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;}
+	text-align:center;}
 .xl103
 	{mso-style-parent:style0;
 	font-size:16.0pt;
