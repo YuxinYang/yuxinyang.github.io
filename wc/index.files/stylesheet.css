@@ -340,6 +340,14 @@ td
 	background:yellow;
 	mso-pattern:black none;}
 .xl97
+	{mso-style-parent:style0;
+	text-align:center;
+	background:#F2F2F2;
+	mso-pattern:black none;}
+.xl98
+	{mso-style-parent:style0;
+	text-align:center;}
+.xl99
 	{mso-style-parent:style24;
 	color:#006100;
 	font-weight:700;
@@ -347,47 +355,62 @@ td
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	text-align:center;
-	border:.5pt solid windowtext;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
 	background:#C6EFCE;
 	mso-pattern:black none;}
-.xl98
-	{mso-style-parent:style0;
-	text-align:center;
-	background:#F2F2F2;
-	mso-pattern:black none;}
-.xl99
-	{mso-style-parent:style0;
-	font-size:16.0pt;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	text-align:center;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;}
 .xl100
-	{mso-style-parent:style0;
-	font-size:16.0pt;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
+	{mso-style-parent:style24;
+	color:#006100;
 	text-align:center;
-	border-top:.5pt solid windowtext;
-	border-right:none;
+	border-top:none;
+	border-right:.5pt solid windowtext;
 	border-bottom:.5pt solid windowtext;
-	border-left:none;}
+	border-left:.5pt solid windowtext;
+	background:#C6EFCE;
+	mso-pattern:black none;}
 .xl101
 	{mso-style-parent:style0;
 	font-size:16.0pt;
 	font-family:宋体;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
+	text-align:center;}
+.xl102
+	{mso-style-parent:style0;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl103
+	{mso-style-parent:style0;
+	font-size:16.0pt;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;}
+.xl104
+	{mso-style-parent:style0;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl105
+	{mso-style-parent:style0;
 	text-align:center;
 	border-top:.5pt solid windowtext;
 	border-right:.5pt solid windowtext;
 	border-bottom:.5pt solid windowtext;
 	border-left:none;}
-.xl102
-	{mso-style-parent:style0;
-	text-align:center;}
