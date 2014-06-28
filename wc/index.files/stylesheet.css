@@ -348,7 +348,8 @@ td
 	{mso-style-parent:style24;
 	color:#006100;
 	font-weight:700;
-	font-family:宋体, monospace;
+	font-family:宋体;
+	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	text-align:center;
 	border-top:none;
@@ -365,14 +366,20 @@ td
 .xl100
 	{mso-style-parent:style0;
 	color:black;
+	font-family:宋体, monospace;
+	mso-font-charset:134;
 	text-align:center;
 	border:.5pt solid windowtext;}
 .xl101
 	{mso-style-parent:style0;
-	color:black;}
+	color:black;
+	font-family:宋体, monospace;
+	mso-font-charset:134;}
 .xl102
 	{mso-style-parent:style0;
 	color:black;
+	font-family:宋体, monospace;
+	mso-font-charset:134;
 	text-align:center;
 	border-top:none;
 	border-right:.5pt solid windowtext;
@@ -383,6 +390,8 @@ td
 .xl103
 	{mso-style-parent:style0;
 	color:black;
+	font-family:宋体, monospace;
+	mso-font-charset:134;
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:#FDE9D9;
@@ -390,6 +399,8 @@ td
 .xl104
 	{mso-style-parent:style0;
 	color:black;
+	font-family:宋体, monospace;
+	mso-font-charset:134;
 	text-align:center;
 	border-top:none;
 	border-right:.5pt solid windowtext;
@@ -400,6 +411,8 @@ td
 .xl105
 	{mso-style-parent:style0;
 	color:black;
+	font-family:宋体, monospace;
+	mso-font-charset:134;
 	text-align:center;}
 .xl106
 	{mso-style-parent:style0;
@@ -444,3 +457,6 @@ td
 	border-right:.5pt solid windowtext;
 	border-bottom:.5pt solid windowtext;
 	border-left:none;}
+.xl111
+	{mso-style-parent:style0;
+	text-align:center;}
