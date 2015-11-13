@@ -7,12 +7,20 @@
         }
         
         var getRamdonList = function () {
-  var arr = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
-  var out = arr.sort(function() {
-    return Math.random() - 0.5
-  })
-  alert(JSON.stringify(out))
-  return out
+                 var arr = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+              for(var x = 0 ; x < arr.length; x++){//控制趟数  
+                for(var y = x + 1 ; y < arr.length ; y++){  
+                    //依次比较，如果后面的元素大于前面的元素则交换  
+                    if(Math.random() > 0.5){  
+                        var temp = arr[x];  
+                        arr[x] = arr[y];  
+                        arr[y] = temp;  
+                    }  
+                }  
+            }  
+  
+    alert(JSON.stringify(arr))
+  return arr
 }
 
 var l = getRamdonList()
